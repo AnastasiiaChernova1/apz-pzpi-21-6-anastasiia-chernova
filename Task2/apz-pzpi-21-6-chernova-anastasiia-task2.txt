@@ -117,7 +117,7 @@ GET	/api/recomendation	Отримання списку індивідуальн�
 
 5 ПЕРЕЛІК ДЖЕРЕЛ ПОСИЛАННЯ
 
-Посилання на архів з кодом: 
+Посилання на архів з кодом: https://github.com/NureChernovaAnastasiia/apz-pzpi-21-6-chernova-anastasiia/tree/main/Task2/server
 Посилання на відео: https://www.youtube.com/watch?v=rTIFo9Ua8rk
 
 
